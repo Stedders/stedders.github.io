@@ -274,7 +274,7 @@ msft_data.plot()
 
 
     
-![png](2.%20Stock%20Price%20Graph_files/2.%20Stock%20Price%20Graph_12_1.png)
+![png](Stock_Price_Graph_files/Stock_Price_Graph_12_1.png)
     
 
 
