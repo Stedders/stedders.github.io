@@ -1,6 +1,6 @@
 # Stock Price
 
-## Part1: Downloading and show a graph
+In this workbook you will install a package to download stock price data and draw a graph of the price over time.
 
 **Time:** 30 minutes
 
@@ -8,7 +8,6 @@
 
 **Skills:** Data Science
 
-In this workbook you will install a package to download stock price data and draw a graph of the price over time.
 
 ## Get Stock Prices
 Import the two packages we require and reference them using the `as` keyword - this saves on typing.
